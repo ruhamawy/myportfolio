@@ -705,7 +705,7 @@ span, a, a:hover {
 /* ----------------------------------------------------------------
 				09 Portfolio
 -----------------------------------------------------------------*/
- /*.portfolio {
+.portfolio {
   overflow: hidden;
 }
 .portfolio .filtering span {
@@ -895,7 +895,7 @@ span, a, a:hover {
 }
 .blog .pitem .info .by {
   float: right;
-} */
+}
 
 /* ----------------------------------------------------------------
 				12 Contact
