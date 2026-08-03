@@ -192,7 +192,8 @@ span, a, a:hover {
 }
 
 .section-padding {
-  padding: 100px 0;
+  padding: 20px 0; 
+  /* 100px */
 }
 
 .section-ptb {
@@ -892,6 +893,8 @@ span, a, a:hover {
 .blog .pitem .info .more {
   color: #C49B66;
   border-bottom: 1px solid #eee;
+  font-size: 14px;
+  font-weight: bold;
 }
 .blog .pitem .info .by {
   float: right;
