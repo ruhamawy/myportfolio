@@ -94,6 +94,7 @@ body {
 }
 .dark-theme .blog .pitem .content .more, .dark-theme .blog .pitem .content p {
   border-color: #222;
+  /* by */
 }
 .dark-theme footer {
   background: #181818;
@@ -898,7 +899,31 @@ span, a, a:hover {
 }
 .blog .pitem .info .by {
   float: right;
+   color: #C49B66;
+  border-bottom: none;
+  font-size: 14px;
+  font-weight: bold;
+ 
 } */
+.by a {
+    display: inline-block;
+    padding: 6px 12px;
+}
+
+.by a:hover {
+    background: #C49B66;
+    color:white;
+}
+.more a {
+    display: inline-block;
+    padding: 6px 12px;
+}
+
+.more a:hover {
+    background: #C49B66;
+    color:white;
+}
+
 
 /* ----------------------------------------------------------------
 				12 Contact
